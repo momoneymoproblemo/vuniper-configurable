@@ -1,0 +1,17 @@
+[
+{"id":"movies-web","source":"movies","section":"web","name":"Movies Now Online","description":"Fresh arrivals on digital and streaming.","cursor":"web","default":true},
+{"id":"movies-soon","source":"movies","section":"soon","name":"Streaming Soon","description":"The next wave of digital releases.","cursor":"web"},
+{"id":"movies-gems","source":"movies","section":"gems","name":"Hidden Gems","description":"Less obvious picks worth your time.","cursor":"web","default":true},
+{"id":"movies-trailers","source":"movies","section":"trailers","name":"Latest Trailers","description":"The films behind the newest trailers.","cursor":"trailer_date"},
+{"id":"movies-upcoming","source":"movies","section":"upcoming","name":"Upcoming Movies","description":"Keep an eye on what’s coming next.","cursor":"release_date"},
+{"id":"movies-theaters","source":"movies","section":"theaters","name":"In Theaters","description":"Films currently on the big screen.","cursor":"release_date"},
+{"id":"movies-popular","source":"movies","section":"popular","name":"Popular Online","description":"The movies everyone’s looking at.","cursor":"popularity"},
+{"id":"movies-bluray","source":"movies","section":"bluray","name":"New on Blu-ray","description":"The latest physical-media releases.","cursor":"bluray"},
+{"id":"movies-anime","source":"movies","section":"anime","name":"New Anime Movies","description":"New feature-length anime discoveries.","cursor":"web"},
+{"id":"movies-top100","source":"movies","section":"top100","name":"Top 100 Movies","description":"Vuniper’s top-rated movie selection.","cursor":"uid"},
+{"id":"shows-new","source":"shows","section":"new","name":"New Shows & Seasons","description":"New series and returning favourites.","cursor":"last_season_date","default":true},
+{"id":"shows-upcoming","source":"shows","section":"upcoming","name":"Upcoming Shows","description":"The series and seasons on the horizon.","cursor":"next_season_date"},
+{"id":"shows-popular","source":"shows","section":"popular","name":"Popular Now","description":"Find your next conversation starter.","cursor":"popularity","default":true},
+{"id":"shows-anime","source":"shows","section":"anime","name":"New Anime Shows","description":"Fresh anime series and seasons.","cursor":"last_season_date"},
+{"id":"shows-top","source":"shows","section":"top","name":"Top 100 Shows","description":"Vuniper’s top-rated TV selection.","cursor":"uid"}
+]
